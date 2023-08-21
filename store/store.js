@@ -7,3 +7,6 @@ export const store = configureStore({
         home: homeSlice,
     },
 });
+
+
+//write a function add two number
